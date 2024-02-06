@@ -1,0 +1,14 @@
+C:\Users\joaosilva\Desktop\Diversos\joao\curso dev full stack\Lógica de programação\exercício bonus 1\EmpresaOnibusTurismo\EmpresaOnibusTurismo\bin\Debug\net8.0\EmpresaOnibusTurismo.exe
+C:\Users\joaosilva\Desktop\Diversos\joao\curso dev full stack\Lógica de programação\exercício bonus 1\EmpresaOnibusTurismo\EmpresaOnibusTurismo\bin\Debug\net8.0\EmpresaOnibusTurismo.deps.json
+C:\Users\joaosilva\Desktop\Diversos\joao\curso dev full stack\Lógica de programação\exercício bonus 1\EmpresaOnibusTurismo\EmpresaOnibusTurismo\bin\Debug\net8.0\EmpresaOnibusTurismo.runtimeconfig.json
+C:\Users\joaosilva\Desktop\Diversos\joao\curso dev full stack\Lógica de programação\exercício bonus 1\EmpresaOnibusTurismo\EmpresaOnibusTurismo\bin\Debug\net8.0\EmpresaOnibusTurismo.dll
+C:\Users\joaosilva\Desktop\Diversos\joao\curso dev full stack\Lógica de programação\exercício bonus 1\EmpresaOnibusTurismo\EmpresaOnibusTurismo\bin\Debug\net8.0\EmpresaOnibusTurismo.pdb
+C:\Users\joaosilva\Desktop\Diversos\joao\curso dev full stack\Lógica de programação\exercício bonus 1\EmpresaOnibusTurismo\EmpresaOnibusTurismo\obj\Debug\net8.0\EmpresaOnibusTurismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaosilva\Desktop\Diversos\joao\curso dev full stack\Lógica de programação\exercício bonus 1\EmpresaOnibusTurismo\EmpresaOnibusTurismo\obj\Debug\net8.0\EmpresaOnibusTurismo.AssemblyInfoInputs.cache
+C:\Users\joaosilva\Desktop\Diversos\joao\curso dev full stack\Lógica de programação\exercício bonus 1\EmpresaOnibusTurismo\EmpresaOnibusTurismo\obj\Debug\net8.0\EmpresaOnibusTurismo.AssemblyInfo.cs
+C:\Users\joaosilva\Desktop\Diversos\joao\curso dev full stack\Lógica de programação\exercício bonus 1\EmpresaOnibusTurismo\EmpresaOnibusTurismo\obj\Debug\net8.0\EmpresaOnibusTurismo.csproj.CoreCompileInputs.cache
+C:\Users\joaosilva\Desktop\Diversos\joao\curso dev full stack\Lógica de programação\exercício bonus 1\EmpresaOnibusTurismo\EmpresaOnibusTurismo\obj\Debug\net8.0\EmpresaOnibusTurismo.dll
+C:\Users\joaosilva\Desktop\Diversos\joao\curso dev full stack\Lógica de programação\exercício bonus 1\EmpresaOnibusTurismo\EmpresaOnibusTurismo\obj\Debug\net8.0\refint\EmpresaOnibusTurismo.dll
+C:\Users\joaosilva\Desktop\Diversos\joao\curso dev full stack\Lógica de programação\exercício bonus 1\EmpresaOnibusTurismo\EmpresaOnibusTurismo\obj\Debug\net8.0\EmpresaOnibusTurismo.pdb
+C:\Users\joaosilva\Desktop\Diversos\joao\curso dev full stack\Lógica de programação\exercício bonus 1\EmpresaOnibusTurismo\EmpresaOnibusTurismo\obj\Debug\net8.0\EmpresaOnibusTurismo.genruntimeconfig.cache
+C:\Users\joaosilva\Desktop\Diversos\joao\curso dev full stack\Lógica de programação\exercício bonus 1\EmpresaOnibusTurismo\EmpresaOnibusTurismo\obj\Debug\net8.0\ref\EmpresaOnibusTurismo.dll
